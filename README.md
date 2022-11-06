@@ -100,12 +100,6 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 <h3 align="center">
-    ─「 Credits 」─
-</h3>
-
-<p align="center"><a href="https://github.com/AM-ROBOTS/EvaMaria"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By - AM ROBOTS -blue"></a></p>
-
-<h3 align="center">
     ─「 Support & Updates  」─
 </h3>
 
