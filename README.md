@@ -46,6 +46,9 @@
 </h3>
 <details><summary>Deploy To Heroku</summary>
 <p>
+<p align="center">
+  <img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/ZeroTwo.jpg" alt="Zero Two Logo">
+</p>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=QU0tUk9CT1RTL0V2YU1hcmlhIG1haW4">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
