@@ -2,7 +2,7 @@
   <b>ZeroTwo Bot</b>
 </h3>
 <p align="center">
-  <img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/Logo.jpg" alt="Zero Two Logo">
+  <img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/02.jpg" alt="Zero Two Logo">
 </p>
 
 <h3 align="center">
