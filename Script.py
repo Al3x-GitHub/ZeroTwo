@@ -1,8 +1,8 @@
 class script(object):
     START_TXT = """Hey {} 
-I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group
+I'm Powerful Auto-Filter Bot You Can Use Me As A Auto-filter in Your Group,
 
-Its Easy To Use Me; Just Add Me To Your Group As Admin, 
+Its Easy To Use Me : Just Add Me To Your Group As Admin, 
 Thats All, i will Provide Movies There.
 
 ⚠ ️More Help Check Help Button Below
@@ -27,11 +27,10 @@ Thats All, i will Provide Movies There.
 ┣ 𝐵𝑜𝑡 𝑆𝑒𝑟𝑣𝑒𝑟 : 𝑯𝒆𝒓𝒐𝒌𝒖
 ┗ 𝐵𝑢𝑖𝑙𝑑 𝑆𝑡𝑎𝑡𝑢𝑠 : v0.2"""
     SOURCE_TXT = """<b>NOTE: </b>
-- Zero Two is a open source project. 
-- Source - https://github.com/AL3X-Github/ZeroTwo 
+- Zero Two Is A Open Source Project. 
+- Source Code - [ZeroTwo](https://github.com/AL3X-Github/ZeroTwo)
 
-<b>MY MASTER:</b>
-- <a href=https://t.me/MaximXRobot>I𝗓υɱi 和泉</a>"""
+<b>MY MASTER:</b><a href=https://t.me/MaximXRobot>I𝗓υɱi 和泉</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
 - Filter is the feature were users can set automated replies for a particular keyword and Zero Two will respond whenever a keyword is found the message
