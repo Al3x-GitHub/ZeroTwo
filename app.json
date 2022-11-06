@@ -1,5 +1,6 @@
 {
     "name": "ZeroTwo Bot",
+    "logo": "https://github.com/AL3X-Github/Resources/blob/main/Photos/H_Logo.png",
     "description": "When you going to send file on telegram channel this bot will save that in database, So you can search that easily in inline mode",
     "stack": "container",
     "keywords": [
