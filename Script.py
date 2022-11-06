@@ -21,22 +21,22 @@ Thats All, i will Provide Movies There.
 """
     ABOUT_TXT = """𝑀𝑦 𝑁𝑎𝑚𝑒 {}
 ┏ 𝐶𝑟𝑒𝑎𝑡𝑜𝑟: <a href=https://t.me/MaximXRobot>I𝗓υɱi 和泉</a>
-┣ 𝐿𝑖𝑏𝑟𝑎𝑟𝑦 : 𝑃𝑦𝑟𝑜𝑔𝑟𝑎𝑚
-┣ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒 : 𝑃𝑦𝑡𝒉𝑜𝑛
-┣ 𝐷𝑎𝑡𝑎𝑣𝐵𝑎𝑠𝑒 : 𝑀𝑜𝑛𝑔𝑖 𝐷𝐵
-┣ 𝐵𝑜𝑡 𝑆𝑒𝑟𝑣𝑒𝑟 : 𝐻𝑒𝑟𝑜𝑘𝑢 & 𝑉𝑃𝑆
-┗ 𝐵𝑢𝑖𝑙𝑑 𝑆𝑡𝑎𝑡𝑢 : v0.2"""
-    SOURCE_TXT = """<b>𝑵𝒐𝒕𝒆: </b>
+┣ 𝐿𝑖𝑏𝑟𝑎𝑟𝑦 : 𝑷𝒚𝒓𝒐𝒈𝒓𝒂𝒎
+┣ 𝐿𝑎𝑛𝑔𝑢𝑎𝑔𝑒 : 𝑷𝒚𝒕𝒉𝒐𝒏
+┣ 𝐷𝑎𝑡𝑎𝑏𝑎𝑠𝑒 : 𝑴𝒐𝒏𝒈𝒐 𝑫𝑩
+┣ 𝐵𝑜𝑡 𝑆𝑒𝑟𝑣𝑒𝑟 : 𝑯𝒆𝒓𝒐𝒌𝒖
+┗ 𝐵𝑢𝑖𝑙𝑑 𝑆𝑡𝑎𝑡𝑢𝑠 : v0.2"""
+    SOURCE_TXT = """<b>NOTE: </b>
 - Zero Two is a open source project. 
 - Source - https://github.com/AL3X-Github/ZeroTwo 
 
-<b>𝑫𝒆𝒗𝒔:</b>
+<b>MY MASTER:</b>
 - <a href=https://t.me/MaximXRobot>I𝗓υɱi 和泉</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and EvaMaria will respond whenever a keyword is found the message
+- Filter is the feature were users can set automated replies for a particular keyword and Zero Two will respond whenever a keyword is found the message
 
-<b>𝑵𝒐𝒕𝒆:</b>
+<b>NOTE:</b>
 1. Zero Two Should Have Admin Privillage.
 2. Only Admins Can Add Filters In A Chat.
 3. Alert Buttons Have A Limit Of 64 Characters.
@@ -52,11 +52,11 @@ Thats All, i will Provide Movies There.
 
 <b>NOTE:</b>
 1. Telegram will not allows you to send buttons without any content, so content is mandatory.
-2. Eva Maria supports buttons with any telegram media type.
+2. ZeroTwo supports buttons with any telegram media type.
 3. Buttons should be properly parsed as markdown format
 
 <b>URL buttons:</b>
-<code>[Button Text](buttonurl:https://t.me/sources_cods)</code>
+<code>[Button Text](buttonurl:https://t.me/MaximXRobot)</code>
 
 <b>Alert buttons:</b>
 <code>[Button Text](buttonalert:This is an alert message)</code>"""
@@ -83,7 +83,7 @@ Thats All, i will Provide Movies There.
     EXTRAMOD_TXT = """Help: <b>Extra Modules</b>
 
 <b>NOTE:</b>
-these are the extra features of Eva Maria
+These Are The Extra Features Of Zero Two.
 
 <b>Commands and Usage:</b>
 • /id - <code>get id of a specified user.</code>
@@ -93,7 +93,7 @@ these are the extra features of Eva Maria
     ADMIN_TXT = """Help: <b>Admin mods</b>
 
 <b>NOTE:</b>
-This module only works for my admins
+This Module Only Works For My Admins.
 
 <b>Commands and Usage:</b>
 • /logs - <code>to get the rescent errors</code>
@@ -107,11 +107,11 @@ This module only works for my admins
 • /unban  - <code>to unban a user.</code>
 • /channel - <code>to get list of total connected channels</code>
 • /broadcast - <code>to broadcast a message to all users</code>"""
-    STATUS_TXT = """★ 𝚃𝙾𝚃𝙰𝙻 𝙵𝙸𝙻𝙴𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝚄𝚂𝙴𝚁𝚂: <code>{}</code>
-★ 𝚃𝙾𝚃𝙰𝙻 𝙲𝙷𝙰𝚃𝚂: <code>{}</code>
-★ 𝚄𝚂𝙴𝙳 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> 
-★ 𝙵𝚁𝙴𝙴 𝚂𝚃𝙾𝚁𝙰𝙶𝙴: <code>{}</code> """
+    STATUS_TXT = """┏ 𝑻𝒐𝒕𝒂𝒍 𝑭𝒊𝒍𝒆𝒔: <code>{}</code>
+┣ 𝑇𝑜𝑡𝑎𝑙 𝑈𝑠𝑒𝑟𝑠: <code>{}</code>
+┣ 𝑻𝒐𝒕𝒂𝒍 𝑪𝒉𝒂𝒕𝒔: <code>{}</code>
+┣ 𝑈𝑠𝑒𝑑 𝑆𝑡𝑜𝑟𝑎𝑔𝑒: <code>{}</code> 
+┗ 𝑭𝒓𝒆𝒆 𝑺𝒕𝒐𝒓𝒂𝒈𝒆: <code>{}</code> """
     LOG_TEXT_G = """#NewGroup
 Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
