@@ -44,9 +44,14 @@
 <h3 align="center">
     ─「 Deploy 」─
 </h3>
-You can deploy this bot anywhere.
-
-[![Deploy](https://cdn.scalingo.com/deploy/button.svg)](https://dashboard.scalingo.com/create/app?source=https://github.com/AL3X-Github/ZeroTwo)
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://telegram.dog/XTZ_HerokuBot?start=QU0tUk9CT1RTL0V2YU1hcmlhIG1haW4">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
 
 <details><summary>Deploy To VPS</summary>
 <p>
