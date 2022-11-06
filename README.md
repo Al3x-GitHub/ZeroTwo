@@ -1,5 +1,5 @@
 <h1 align="center">
-  <b>ZeroTwo Bot</b>
+  <b>𝑍𝑒𝑟𝑜 𝑇𝑤𝑜</b>
 </h1>
 <p align="center">
   <img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/02.jpg" alt="Zero Two Logo">
@@ -36,7 +36,10 @@
 * `DATABASE_URI`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/Miajl2amrKo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
-### Optional Variables
+<h3 align="center">
+    ─「 Optionally Variables 」─
+</h3>
+
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
 * `FILE_STORE_CHANNEL`: Channel from were file store links of posts should be made.Separate multiple IDs by space
 
