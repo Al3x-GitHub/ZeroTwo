@@ -1,6 +1,10 @@
 <h1 align="center">
   <b>𝑍𝑒𝑟𝑜 𝑇𝑤𝑜</b>
 </h1>
+
+```
+A least Give A Star and Fork The Repo.
+```
 <p align="center">
   <img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/02.jpg" alt="Zero Two Logo">
 </p>
