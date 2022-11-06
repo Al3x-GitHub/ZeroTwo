@@ -1,6 +1,6 @@
-<h3 align="center">
+<h1 align="center">
   <b>ZeroTwo Bot</b>
-</h3>
+</h1>
 <p align="center">
   <img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/02.jpg" alt="Zero Two Logo">
 </p>
