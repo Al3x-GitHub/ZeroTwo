@@ -95,16 +95,14 @@ python3 bot.py
 <h3 align="center">
     ─「 Credits 」─
 </h3>
-[**• EvaMaria**](https://github.com/AM-ROBOTS/EvaMaria)
+
+<p align="center"><a href="https://github.com/AM-ROBOTS/EvaMaria"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By - AM ROBOTS -blue"></a></p>
 
 <h3 align="center">
     ─「 Support & Updates  」─
 </h3>
 
 <div align="center">
-
-<p align="center"><a href="https://github.com/AL3X-Github"><img alt="Website" src="https://img.shields.io/badge/ㅤPowered By I𝗓υɱi 和泉ㅤ-blue"></a></p>
-
 
 ![Support Cover](https://github.com/AL3X-Github/Resources/blob/main/Photos/Support.png)
 
