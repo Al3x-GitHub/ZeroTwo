@@ -1,9 +1,9 @@
-<p align="center">
-  <img src="assets/logo.jpg" alt="Zero Two Logo">
-</p>
 <h3 align="center">
   <b>ZeroTwo Bot</b>
 </h3>
+<p align="center">
+  <img src="assets/Logo.jpg" alt="Zero Two Logo">
+</p>
 
 <h3 align="center">
     ─「 Features 」─
