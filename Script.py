@@ -28,12 +28,12 @@ Thats All, i will Provide Movies There.
 ┗ 𝐵𝑢𝑖𝑙𝑑 𝑆𝑡𝑎𝑡𝑢𝑠 : v0.2"""
     SOURCE_TXT = """<b>NOTE: </b>
 - Zero Two Is A Open Source Project. 
-- Source Code - [ZeroTwo](https://github.com/AL3X-Github/ZeroTwo)
+- Source Code - <a href=https://github.com/AL3X-Github/ZeroTwo>Zero Two</a>
 
-<b>MY MASTER:</b><a href=https://t.me/MaximXRobot>I𝗓υɱi 和泉</a>"""
+<b>My Master: </b><a href=https://t.me/MaximXRobot>I𝗓υɱi 和泉</a>"""
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
-- Filter is the feature were users can set automated replies for a particular keyword and Zero Two will respond whenever a keyword is found the message
+- Filter Is The Feature Were Users Can Set Automated Replies For A Particular Keyword And Zero Two Will Respond Whenever A Keyword Is Found The Message
 
 <b>NOTE:</b>
 1. Zero Two Should Have Admin Privillage.
