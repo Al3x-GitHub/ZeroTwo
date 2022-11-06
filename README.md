@@ -6,7 +6,7 @@
 </p>
 
 <h3 align="center">
-    ─「 Features 」─
+    ─「 𝐹𝑒𝑎𝑡𝑢𝑟𝑒𝑠 」─ 
 </h3>
 
 - [x] Auto Filter
@@ -25,7 +25,7 @@
 
 
 <h3 align="center">
-    ─「 Required Variables 」─
+    ─「 𝑅𝑒𝑞𝑢𝑖𝑟𝑒𝑑 𝑉𝑎𝑟𝑖𝑎𝑏𝑙𝑒𝑠 」─ 
 </h3>
 
 * `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
@@ -37,7 +37,7 @@
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/Miajl2amrKo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
 <h3 align="center">
-    ─「 Optionally Variables 」─
+    ─「 𝑂𝑝𝑡𝑖𝑜𝑛𝑎𝑙𝑙𝑦 𝑉𝑎𝑟𝑖𝑎𝑏𝑙𝑒𝑠 」─ 
 </h3>
 
 * `PICS`: Telegraph links of images to show in start message.( Multiple images can be used separated by space )
@@ -45,7 +45,7 @@
 
 
 <h3 align="center">
-    ─「 Deploy 」─
+    ─「 𝐷𝑒𝑝𝑙𝑜𝑦 」─
 </h3>
 <details><summary>Deploy To Heroku</summary>
 <p>
@@ -72,7 +72,7 @@ python3 bot.py
 </details>
 
 <h3 align="center">
-    ─「 Commands 」─
+    ─「 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠 」─
 </h3>
 
 ```
@@ -103,7 +103,7 @@ batch - to create link for multiple posts
 link - to create link for one post
 ```
 <h3 align="center">
-    ─「 Support & Updates  」─
+    ─「 𝑆𝑢𝑝𝑝𝑜𝑟𝑡 & 𝑈𝑝𝑑𝑎𝑡𝑒𝑠 」─
 </h3>
 
 <div align="center">
