@@ -51,17 +51,22 @@ A least Give A Star and Fork The Repo.
 <h3 align="center">
     ─「 𝐷𝑒𝑝𝑙𝑜𝑦 」─
 </h3>
-<details><summary>Deploy To Heroku</summary>
-<p>
-<p align="center">
-  <img src="https://github.com/AL3X-Github/Resources/blob/main/Photos/ZeroTwo.jpg" alt="Zero Two Logo">
-</p>
+<details><summary>Deploy To Bot</summary>
 <br>
 <a href="https://telegram.dog/XTZ_HerokuBot?start=QUwzWC1HaXRodWIvWmVyb1R3byBtYWlu">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
 </details>
+
+<details><summary>Deploy To Heroku</summary>
+<br>
+<a href="https://github.com/AL3X-Github/ZereTwo">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
+</a>
+</p>
+</details>
+
 
 <details><summary>Deploy To VPS</summary>
 <p>
