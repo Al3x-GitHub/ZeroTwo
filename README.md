@@ -61,7 +61,7 @@ A least Give A Star and Fork The Repo.
 
 <details><summary>Deploy To Heroku</summary>
 <br>
-<a href="https://github.com/AL3X-Github/ZereTwo">
+<a href="https://github.com/AL3X-Github/ZeroTwo">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
