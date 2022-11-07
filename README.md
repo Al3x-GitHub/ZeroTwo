@@ -53,21 +53,15 @@ A least Give A Star and Fork The Repo.
 </h3>
 <details><summary>Deploy To Bot</summary>
 <br>
-<a href="https://telegram.dog/XTZ_HerokuBot?start=QUwzWC1HaXRodWIvWmVyb1R3byBtYWlu">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+<p align="center"><a href="https://telegram.dog/XTZ_HerokuBot?start=QUwzWC1HaXRodWIvWmVyb1R3byBtYWlu"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </p>
 </details>
 
 <details><summary>Deploy To Heroku</summary>
 <br>
-<a href="https://github.com/AL3X-Github/ZeroTwo">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
-</a>
+<p align="center"><a href="https://dashboard.heroku.com/new?template=https://github.com/AL3X-Github/ZeroTwo"> <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-red?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 </p>
 </details>
-
-
 <details><summary>Deploy To VPS</summary>
 <p>
 <pre>
